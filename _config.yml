@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Rahul Kumar Gupta </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rahulgupta464/">LinkedIn</a> |
+  <a href="https://github.com/earthrazer">GitHub</a>
+  
+  <br>   
+  I'm studying in MSc Data Science program from Upgrad with IIITB and LJMU.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
